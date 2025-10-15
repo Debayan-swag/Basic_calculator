@@ -1,9 +1,9 @@
-~~ 🧮 Simple Python Calculator
+# 🧮 Simple Python Calculator
 
-A basic COMMAND-LINE CALCULATOR written in Python that supports fundamental arithmetic operations like addition, subtraction, multiplication, division, modulus, and exponentiation.  
+A basic **COMMAND-LINE CALCULATOR** written in Python that supports fundamental arithmetic operations like addition, subtraction, multiplication, division, modulus, and exponentiation.  
 It also includes input validation and a quit option.
 
-~~ 🚀 Features
+# 🚀 Features
 - ➕ Addition  
 - ➖ Subtraction  
 - ✖️ Multiplication  
